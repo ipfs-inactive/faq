@@ -2,7 +2,7 @@
 
 This is the IPFS FAQ page. Please ask your question in an [Issue](https://github.com/ipfs/faq/issues). Make sure to search, as your question may already have been answered.
 
-All these questions and answers will be compiled into a webpage rendered at http://ipfs.io/docs/install
+All these questions and answers will be compiled into a webpage rendered at http://ipfs.io/docs/install (still TODO)
 
 Useful Links:
 ### - [View Questions + Answers](https://github.com/ipfs/faq/issues)
