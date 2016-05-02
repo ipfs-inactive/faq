@@ -6,6 +6,8 @@ Please ask your question in an [Issue](https://github.com/ipfs/faq/issues). Make
 ### [Ask a new Question](https://github.com/ipfs/faq/issues/new)
 _Please search first!_
 
+We mark questions which have been answered as 'answered': if you would like to help answer questions, you can use this search to find [unanswered questions]. 
+
 ## Notes:
 
 #### Comment!
