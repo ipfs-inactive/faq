@@ -1,4 +1,12 @@
-# IPFS - FAQ
+# FAQ
+
+[![](https://img.shields.io/badge/made%20by-Protocol%20Labs-blue.svg?style=flat-square)](http://ipn.io)
+[![](https://img.shields.io/badge/project-IPFS-blue.svg?style=flat-square)](http://ipfs.io/)
+[![](https://img.shields.io/badge/freenode-%23ipfs-blue.svg?style=flat-square)](http://webchat.freenode.net/?channels=%23ipfs)
+[![](https://img.shields.io/badge/discussion_repo-go_to_issues-brightgreen.svg?style=flat-square)](https://github.com/ipfs/apps/issues)
+[![standard-readme compliant](https://img.shields.io/badge/standard--readme-OK-green.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
+
+> Frequently Asked Questions
 
 Please ask your question in an [Issue](https://github.com/ipfs/faq/issues). Make sure to search existing issues, as your question may already have been asked and answered.
 
@@ -8,7 +16,16 @@ _Please search first!_
 
 We mark questions which have been answered as 'answered': if you would like to help answer questions, you can use [this search](https://github.com/ipfs/faq/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+-label%3Aanswered) to find unanswered questions. 
 
-## Notes:
+## Table of Contents
+
+- [Usage](#usage)
+    - [Comment!](#comment)
+    - [Use "WIP" in the question title to denote a "Work In Progress" answer.](#use-wip-in-the-question-title-to-denote-a-work-in-progress-answer)
+    - [Rendering to a page](#rendering-to-a-page)
+- [Contribute](#contribute)
+- [License](#license)
+
+## Usage
 
 #### Comment!
 
@@ -25,3 +42,15 @@ We try not to close issues that have been answered adequately; leaving them open
 #### Rendering to a page
 
 All these questions and answers will be compiled into a webpage rendered at http://ipfs.io/docs/install (still TODO)
+
+## Contribute
+
+Feel free to join in. All welcome.
+
+**Want to hack on IPFS?**
+
+[![](https://cdn.rawgit.com/jbenet/contribute-ipfs-gif/master/img/contribute.gif)](https://github.com/ipfs/community/blob/master/contributing.md)
+
+## License
+
+[MIT](LCIENSE)
