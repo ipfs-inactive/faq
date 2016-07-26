@@ -45,7 +45,7 @@ All these questions and answers will be compiled into a webpage rendered at http
 
 ## Contribute
 
-Feel free to join in. All welcome.
+Feel free to join in and ask or answer questions in the issues. No helpful comment is too small, no answer too big.
 
 **Want to hack on IPFS?**
 
